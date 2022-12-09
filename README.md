@@ -18,7 +18,7 @@ Professional in abandoning projects, and loves to mess around with different tec
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
 
 
-<a href="https://discord.com/users/326123612153053184">
+<a href="https://discord.com/users/973587677997858907">
   <img src="https://lanyard.cnrad.dev/api/326123612153053184">
 </a>
 
