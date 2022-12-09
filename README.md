@@ -2,14 +2,14 @@
 from GitHub import ReadMe
 
 class Alpha(ReadMe):
-    "/doente/doente/README.md"
+    "/fakeriiz7/fakeriiz7/README.md"
 
     def __init__(self):
-        self.name = "Gustavo"
+        self.name = "Emanuel"
         self.contacts = {
-            "Discord": "gu#0001",
-            "Twitter": "strunged"
+            "Discord": "fakeriiz7#1502",
+            "Twitter": "fakeriiz7"
         }
-        self.location = "Santa Catarina - Brasil"
-        self.age = 17
-        self.occupation = "Freelance Developer"
+        self.location = "Espirito Santo - Brasil"
+        self.age = 14
+        self.occupation = "Developer"
