@@ -19,6 +19,6 @@ Professional in abandoning projects, and loves to mess around with different tec
 
 
 <a href="https://discord.com/users/973587677997858907">
-  <img src="https://lanyard.cnrad.dev/api/326123612153053184">
+  <img src="https://lanyard.cnrad.dev/api/973587677997858907">
 </a>
 
